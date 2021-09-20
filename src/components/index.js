@@ -1,4 +1,8 @@
 import PostsList from './PostsList';
 import App from './App';
 import Navbar from './Navbar';
-export { PostsList, App ,Navbar};
+import Home from './Home';
+import  Page404 from './Page404'
+import Login from './Login'
+export { PostsList, App ,Navbar,Home,Page404,Login};
+
